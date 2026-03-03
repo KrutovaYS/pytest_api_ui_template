@@ -31,7 +31,7 @@ class ResultPage:
         (
             "//button[@data-test-id='button']"
             "//div[@data-test-id='text' and "
-            "contains(normalize-space(.), 'Войти в')]",
+            "contains(normalize-space(.), 'Войти в')]"
         )
     )
 
