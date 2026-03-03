@@ -38,6 +38,7 @@ pytest_UI_API_AviaSales/
 ### Полезные ссылки
 - Зайти на сайт [Авиасейлс](https://www.aviasales.ru/)
 - [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore)
+- Финальный проект по ручному тестированию[Авиасейлс](https://skypro-qa110-3.yonote.ru/share/83d73c1c-9d7b-450b-92c2-15a08fc99e46)
 
 ### Используемые технологии
 
